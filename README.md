@@ -1,2 +1,2 @@
 # AlejandroMaderaKatas
-Repositorio con las Katas del curso de Python
+Katas del curso de intro a Python
